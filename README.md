@@ -16,16 +16,8 @@
 
 ---
 
-# Skills
+## Skills
+[![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ruby,rails,perl,py,git,github,vscode,notion,discord,docker,linux,windows)](https://skillicons.dev)
 
-## Backend
-[![Skills Backend](https://skillicons.dev/icons?i=ruby,rails,perl,py)](https://skillicons.dev)
-
-## Frontend
-[![Skills Frontend](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
-
-## Tools
-[![Skills Tools](https://skillicons.dev/icons?i=git,github,vscode,neovim,figma,notion,discord)](https://skillicons.dev)
-
-## Other
-[![Skills Other](https://skillicons.dev/icons?i=docker,linux,windows)](https://skillicons.dev)
+## Learning 
+[![Skills Other](https://skillicons.dev/icons?i=figma,neovim,nextjs,react,ts)](https://skillicons.dev)
